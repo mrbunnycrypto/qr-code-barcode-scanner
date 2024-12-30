@@ -1,0 +1,6 @@
+Initialize Git
+cd qr-code-barcode-scanner
+git init
+git add qr-code-barcode-scanner
+git commit -m "Initial commit"
+git https://github.com/mybunnycrypto/qr-code-barcode-scanner).

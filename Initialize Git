@@ -4,3 +4,4 @@ git init
 git add qr-code-barcode-scanner
 git commit -m "Initial commit"
 git https://github.com/mybunnycrypto/qr-code-barcode-scanner).
+git remote add origin https://github.com/mrbunnycrypto/qr-code-barcode-scanner.git
